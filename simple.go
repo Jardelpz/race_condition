@@ -1,4 +1,4 @@
-package main
+package race_condition
 
 import (
 	"fmt"
